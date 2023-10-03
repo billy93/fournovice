@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Flynn","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Flynn","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Flynn","characterIndex":0,"characterName":"Flynn","classId":1,"equips":[43,0,0,0,0],"faceIndex":0,"faceName":"Flynn","traits":[],"initialLevel":1,"maxLevel":99,"name":"Flynn","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Orion","characterIndex":0,"characterName":"Orion","classId":1,"equips":[43,0,0,0,0],"faceIndex":0,"faceName":"Orion","traits":[],"initialLevel":1,"maxLevel":99,"name":"Orion","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Ugia","characterIndex":0,"characterName":"Ugia","classId":1,"equips":[43,0,0,0,0],"faceIndex":0,"faceName":"Ugia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ugia","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Rin","characterIndex":0,"characterName":"Rin","classId":1,"equips":[43,0,0,0,0],"faceIndex":0,"faceName":"Rin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rin","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Flynn Swordsman","traits":[],"initialLevel":1,"maxLevel":99,"name":"Flynn","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Orion","traits":[],"initialLevel":1,"maxLevel":99,"name":"Orion","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ugia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ugia","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Rin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rin","nickname":"","note":"","profile":""}
+]
